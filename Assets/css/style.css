@@ -53,13 +53,9 @@ nav ul li {
 }
 
 /* Code for Images */
-figure {
+figure img {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
@@ -97,7 +93,7 @@ main {
     font-size: 36px;
 }
 
-/* Code for elemetsn in the side section on the right of the page */
+/* Code for elements in the side section on the right of the page */
 aside {
     margin-right: 20px;
     padding: 20px;
